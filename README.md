@@ -12,3 +12,7 @@ For running the application -
 3. Setup a local server using XAMPP.
 4. Put the modified folder in ./lampp/htdocs
 5. Name the folder as auction and you are good to go.
+
+Thank you 
+
+Created by JATIN , JITESH , HARSH .
