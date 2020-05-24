@@ -1,0 +1,1 @@
+<h1 class="text-main text-center my-3 padding-2">School Analysis : <?php echo $schoolname ?></h1>
