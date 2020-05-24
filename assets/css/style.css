@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,600|Roboto&display=swap');
+
+
+body,html{
+    background-color: #74a8f4;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.iima-logo{
+    background-color: white;
+}
+
+.navbar{
+    background-color: transparent;
+}
+
+.nav-font{
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.text-main{
+    color: #082e47;
+}
+
+.custom-input{
+    padding: 1.5rem;
+    border: 0;
+    border-radius: 50px;
+}
+
+.custom-input:focus{
+    box-shadow: 0 1rem 3rem rgba(0,0,0,.175)!important;
+    border: 1px solid #082e47;
+}
+
+.round{
+    border-radius: 50px;
+}
+
+.custom-btn{
+    padding: 0.5rem 1.5rem 0.5rem 1.5rem;
+    font-weight: 600;
+    border: 3px solid #082e47;
+    background-color: transparent;
+}
+
+.custom-btn:hover{
+    background-color: #082e47;
+    color: rgb(228, 255, 255);
+    box-shadow: 0 1rem 3rem rgba(0,0,0,.175);
+}
+
+.bg-main{
+    background-color: #082e47;
+}
+
+.padding-2{
+    padding: 2rem!important;
+}
+
+.paddingx-2{
+    padding-left: 2rem!important;
+    padding-right: 2rem!important;
+}
+
+.paddingy-2{
+    padding-top: 2rem!important;
+    padding-bottom: 2rem!important;
+}
+
+.h-65{
+    height:70%;
+}
+
+.w-90{
+    width:90%;
+}
+
+.text-small{
+    font-size: 12px;
+}
+
+/* .bg-light{
+    background-color: #68b7eb!important;
+} */
+
+.item-box{
+    border-top: 10px solid #082e47!important;
+}
